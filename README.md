@@ -1,3 +1,4 @@
 # infinite-runner
+# imersão GameDev
 
-Passando a imersão GameDev desenvolmento o jogo usando JS
+Desenvolvimento de um jogo estilo infinite runner, usando JS e a biblioteca P5.js
